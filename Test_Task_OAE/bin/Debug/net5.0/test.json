@@ -1,0 +1,18 @@
+{
+  "car": {
+    "type": [
+      {
+        "sedan": {
+          "make": "honda",
+          "model": "civics"
+        }
+      },
+      {
+        "coupe": {
+          "make": "ford",
+          "model": "escort"
+        }
+      }
+    ]
+  }
+}
